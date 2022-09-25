@@ -1,2 +1,6 @@
-# demondx-game
- Demon DX, a prototype with the Factorio combat
+# Demon DX
+A prototype that mimicks Factorio combat
+
+# Demon Dx
+
+![Demon Dx](DemonDX.png)
